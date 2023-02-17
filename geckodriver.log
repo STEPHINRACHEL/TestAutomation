@@ -1,0 +1,35 @@
+1676638359431	geckodriver	INFO	Listening on 127.0.0.1:63604
+1676638359643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63605" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileWjxWAH"
+1676638364109	Marionette	INFO	Marionette enabled
+1676638364173	Marionette	INFO	Listening on port 63632
+Read port: 63632
+WebDriver BiDi listening on ws://localhost:63605
+1676638364718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676638391135	geckodriver	INFO	Listening on 127.0.0.1:63781
+1676638391645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63782" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileq15lUq"
+1676638392311	Marionette	INFO	Marionette enabled
+1676638392352	Marionette	INFO	Listening on port 63793
+WebDriver BiDi listening on ws://localhost:63782
+Read port: 63793
+1676638392824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileq15lUq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63782/devtools/browser/be268294-5926-4c5d-8b6a-7b23f5f81cbc
+JavaScript error: moz-extension://ddde7ad8-d3be-4b61-a013-4d104d5f76e2/extensions.js, line 1: TypeError: this.extData is undefined
+Extension error: TypeError: e is undefined moz-extension://ddde7ad8-d3be-4b61-a013-4d104d5f76e2/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://ddde7ad8-d3be-4b61-a013-4d104d5f76e2/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
+Extension error: TypeError: e is undefined moz-extension://ddde7ad8-d3be-4b61-a013-4d104d5f76e2/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://ddde7ad8-d3be-4b61-a013-4d104d5f76e2/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
