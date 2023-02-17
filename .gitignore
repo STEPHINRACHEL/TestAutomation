@@ -1,5 +1,8 @@
+# Ignore IDE specific file
 .idea
 
+#Ignore logs
 *.log
 
+#Ignore iml files
 *.iml
