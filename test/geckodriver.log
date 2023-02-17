@@ -133,3 +133,24 @@ DevTools listening on ws://localhost:56543/devtools/browser/4ff85223-5e92-4a9d-9
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1676648700395	geckodriver	INFO	Listening on 127.0.0.1:58163
+1676648700403	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58164" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileePnIGG"
+1676648700930	Marionette	INFO	Marionette enabled
+1676648700970	Marionette	INFO	Listening on port 58169
+WebDriver BiDi listening on ws://localhost:58164
+Read port: 58169
+1676648701336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileePnIGG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58164/devtools/browser/3e123bde-b71f-40d2-a989-e0663df14944
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Extension error: TypeError: e is undefined moz-extension://eae239ea-b027-4530-b125-798b75050ea7/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://eae239ea-b027-4530-b125-798b75050ea7/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
