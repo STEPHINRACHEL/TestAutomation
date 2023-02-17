@@ -5,5 +5,6 @@
 3. Type username = `standard_user`
 4. Type password = `secret_sauce`
 5. Click Login button
-6. Verify if the page is navigated to https://www.saucedemo.com/inventory.html
+6. Verify if the new page has title `PRODUCTS`
+7. Close the browser window
 
