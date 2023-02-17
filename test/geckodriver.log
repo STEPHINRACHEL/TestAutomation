@@ -1,0 +1,135 @@
+1676647581652	geckodriver	INFO	Listening on 127.0.0.1:52850
+1676647582059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52851" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileqBX95d"
+1676647582628	Marionette	INFO	Marionette enabled
+1676647582663	Marionette	INFO	Listening on port 52862
+WebDriver BiDi listening on ws://localhost:52851
+Read port: 52862
+1676647583027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileqBX95d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52851/devtools/browser/9990304a-64ea-4a71-8ec5-5f89dae8a2c7
+Extension error: TypeError: e is undefined moz-extension://65f909ba-03c0-413f-b25d-5e507001cb3f/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://65f909ba-03c0-413f-b25d-5e507001cb3f/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
+1676647607119	geckodriver	INFO	Listening on 127.0.0.1:53009
+1676647607127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53010" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileZRhGLI"
+1676647607672	Marionette	INFO	Marionette enabled
+1676647607710	Marionette	INFO	Listening on port 53019
+WebDriver BiDi listening on ws://localhost:53010
+Read port: 53019
+1676647608076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileZRhGLI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53010/devtools/browser/7ede018f-c7d8-45a5-bfda-5c781300c10d
+Extension error: TypeError: e is undefined moz-extension://63351484-b62b-4a2d-9250-c6cfc5ec3d35/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://63351484-b62b-4a2d-9250-c6cfc5ec3d35/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
+1676647632577	geckodriver	INFO	Listening on 127.0.0.1:53194
+1676647632583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53195" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileOnEg7h"
+1676647633097	Marionette	INFO	Marionette enabled
+1676647633131	Marionette	INFO	Listening on port 53200
+WebDriver BiDi listening on ws://localhost:53195
+Read port: 53200
+1676647633477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileOnEg7h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53195/devtools/browser/ac5bd48a-39e9-4982-b8b6-777bc00fc7c2
+1676647706089	geckodriver	INFO	Listening on 127.0.0.1:53560
+1676647706096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53561" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileVc2OEe"
+1676647706670	Marionette	INFO	Marionette enabled
+1676647706708	Marionette	INFO	Listening on port 53566
+WebDriver BiDi listening on ws://localhost:53561
+Read port: 53566
+1676647707089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileVc2OEe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53561/devtools/browser/8b5a112b-c1ed-467c-a687-4d1673419999
+1676647720245	geckodriver	INFO	Listening on 127.0.0.1:53672
+1676647720253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53673" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileQs6kEI"
+1676647720856	Marionette	INFO	Marionette enabled
+1676647720891	Marionette	INFO	Listening on port 53678
+WebDriver BiDi listening on ws://localhost:53673
+Read port: 53678
+1676647721154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileQs6kEI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53673/devtools/browser/dd7878c8-5c74-47b0-bf92-2e8766dc3982
+Extension error: TypeError: e is undefined moz-extension://40f5fff3-1845-441a-9d83-0446844c47bc/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://40f5fff3-1845-441a-9d83-0446844c47bc/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
+1676647748252	geckodriver	INFO	Listening on 127.0.0.1:53839
+1676647748258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53840" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileReT35R"
+1676647748786	Marionette	INFO	Marionette enabled
+1676647748822	Marionette	INFO	Listening on port 53849
+WebDriver BiDi listening on ws://localhost:53840
+Read port: 53849
+1676647749173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofileReT35R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53840/devtools/browser/35ed5b06-3c3e-4fcb-b4c2-918efd0eaa8b
+Extension error: TypeError: e is undefined moz-extension://bec2ce90-a7fc-41e7-923b-e9348742cdf6/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://bec2ce90-a7fc-41e7-923b-e9348742cdf6/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
+1676647896585	geckodriver	INFO	Listening on 127.0.0.1:54515
+1676647896592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54516" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofilenolpZg"
+1676647897127	Marionette	INFO	Marionette enabled
+1676647897163	Marionette	INFO	Listening on port 54521
+WebDriver BiDi listening on ws://localhost:54516
+Read port: 54521
+1676647897530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofilenolpZg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54516/devtools/browser/14da306e-2ebf-4ce3-9ba4-5d72013b2f50
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Extension error: TypeError: e is undefined moz-extension://73d1cc4e-9ad5-4485-a6c6-31d6122a904b/extensions.js 1
+[[Exception stack
+getCurrentTab/</<@moz-extension://73d1cc4e-9ad5-4485-a6c6-31d6122a904b/extensions.js:1:48140
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:710:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:906:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:825:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:894:16
+]]
+1676647911698	geckodriver	INFO	Listening on 127.0.0.1:54630
+1676647911704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54631" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofilefracUW"
+1676647912226	Marionette	INFO	Marionette enabled
+1676647912261	Marionette	INFO	Listening on port 54636
+WebDriver BiDi listening on ws://localhost:54631
+Read port: 54636
+1676647912626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofilefracUW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54631/devtools/browser/ecccdfeb-ba4f-4923-9019-8c80df2ab393
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1676648330733	geckodriver	INFO	Listening on 127.0.0.1:56542
+1676648330740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56543" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofilegba5m6"
+1676648331276	Marionette	INFO	Marionette enabled
+1676648331316	Marionette	INFO	Listening on port 56548
+WebDriver BiDi listening on ws://localhost:56543
+Read port: 56548
+1676648331685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/39/ttpj8mg1003cd05_l54q4l400000gn/T/rust_mozprofilegba5m6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56543/devtools/browser/4ff85223-5e92-4a9d-911f-0f9bd9bc08cb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
