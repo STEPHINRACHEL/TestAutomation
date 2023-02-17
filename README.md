@@ -1,6 +1,6 @@
 # TestAutomation
 Hello...
-This repository contans test automation for sites listed 
+This repository contains test automation for sites listed 
 [here] (https://ultimateqa.com/dummy-automation-websites/)
 
 ## Testcases
