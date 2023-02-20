@@ -7,7 +7,7 @@
 5. Click Login button
 6. Verify if the new page has title `PRODUCTS`
 7. Click on `Sauce Labs Backpack` link
-8. Verify if the page has description contains the words `uncompromising style`. 
-9. If the above step is passing click on `ADD TO CART` button
+8. Verify if the page has a product description contains the words `uncompromising style`. 
+9. Click on `ADD TO CART` button
 10. Close the browser window
 
