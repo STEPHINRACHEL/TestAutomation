@@ -6,5 +6,8 @@
 4. Type password = `secret_sauce`
 5. Click Login button
 6. Verify if the new page has title `PRODUCTS`
-7. Close the browser window
+7. Click on `Sauce Labs Backpack` link
+8. Verify if the page has description contains the words `uncompromising style`. 
+9. If the above step is passing click on `ADD TO CART` button
+10. Close the browser window
 
