@@ -1,9 +1,9 @@
-
 from saucedemo.browser import login, close, print_success, print_failure
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-driver = webdriver.Firefox()
+driver = webdriver.Edge()
+# Edge, Chrome are supported browsers at the moment
 
 user1 = 'standard_user'
 user2 = 'locked_out_user'
@@ -20,8 +20,7 @@ if actual_title == expected_title:
     print_success(user1)
 
 else:
-   print_failure(user1)
-
+    print_failure(user1)
 
 # Test with locked_out_user
 login(driver, 'locked_out_user')
